@@ -1,0 +1,16 @@
+{
+  "name": "viseca-exporter",
+  "version": "1.0.0",
+  "description": "Little helper to get transactions from Viseca One and print them in CSV format.",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "dotenv": "^17.2.4"
+  }
+}
